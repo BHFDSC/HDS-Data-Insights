@@ -8,11 +8,11 @@ NHS Digital - https://digital.nhs.uk/coronavirus/gpes-data-for-pandemic-planning
 Health Data Research Innovation Gateway - https://web.www.healthdatagateway.org/dataset/696cfc9f-090d-4328-94ac-140760a77c73
 
 ### Table names
-dars_nic_391419_j3w9t.gdppr_dars_nic_391419_j3w9t
-dars_nic_391419_j3w9t_collab.gdppr_dars_nic_391419_j3w9t_archive
+db.table
+db.table
 
 ### Data Summary Notebook
-Workspaces\dars_nic_391419_j3w9t\DATA_RESOURCES\DATA_SUMMARY\GDPPR Summary-Notebook
+Workspaces\path
 
 ### Need to Know
 
@@ -20,12 +20,12 @@ Workspaces\dars_nic_391419_j3w9t\DATA_RESOURCES\DATA_SUMMARY\GDPPR Summary-Noteb
   - alive on or after 1 November 2019
   - from participating practices in England (98%)
   - with SNOMED-CT codes relevant to pandemic planning and research
-- Includes SNOMED-CT codes deemed applicable for COVID-19 research (~36,000 out of >900,000) 
+- Includes SNOMED-CT codes deemed applicable for COVID-19 research (~X out of X) 
 - Data coverage varies according to SNOMED-CT code cluster 
 - GDPPR includes ~61m individuals, GP list size estimates ~62m individuals, ONS population estimates ~57m 
 - No registration data available 
 - Individuals and records are not removed from the extract in monthly batch updates 
-- Patients who have opted out (~1.3m) are not removed; data no longer flows from the point of opt out
+- Patients who have opted out (X) are not removed; data no longer flows from the point of opt out
 - Not possible to reliably infer number of GP appointments/consultations
 - Small number of SNOMED-CT codes in GDPPR not matching to the GDPPR reference set
 
