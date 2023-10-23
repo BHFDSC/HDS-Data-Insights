@@ -1,0 +1,64 @@
+---
+---
+@import "{{ site.theme }}";
+
+:root{
+--colour_bhf_darkred:#A0003C;
+--colour_bhf_lightred:#FF001F;
+--colour_bhf_background_lightgrey:#F3F2F4;
+--colour_bhf_neonred:#F51344;
+--customValueBox_border_colour:#A95EF4;
+}
+
+#header { 
+    border-radius: 10px;
+    background: #8C0033 /* Old browsers */
+    background: #8C0033; /* FF3.6-15 */
+    background: #8C0033; /* Chrome10-25,Safari5.1-6 */
+    background: #8C0033; /* W3C, IE10+, FF16+, Chrome26+,  Opera12+, Safari7+ */
+    margin-top:20px;
+    margin-bottom:8px;
+ 
+    align-items: center;
+    justify-content: center;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:15px;
+    padding-right:15px;
+  }
+
+#header .title{color:white;font-size: 20px;display: block;margin-top:10px;}
+#header .subtitle{color:white;font-size: 16px;display: block;margin-bottom:10px;margin-top:0px;}
+#header .author{color:white;font-size: 12px;display: block;}
+#header .date{color:white;font-size: 12px;display: block;}
+
+h3 {color:var(--colour_bhf_darkred);}
+h4 {color:var(--colour_bhf_neonred);margin-top:30px;}
+h5 {color:var(--colour_bhf_neonred);margin-top:30px;}
+h6 {color:#FB9597;margin-top:30px;font-size:16px;}
+
+#searchimg {border: 1px solid #E7E9EB; !important;margin-left:20px;margin-right:40px;}
+.caption {text-align: left;color:#505152;margin-left:20px;}
+
+code {background-color:#F5F5F5;color:var(--colour_bhf_darkred)}
+
+/* unvisited link */
+a:link {
+  color: #ed1f54;
+}
+
+/* visited link */
+a:visited {
+  color: #A95EF4;
+}
+
+/* mouse over link */
+a:hover {
+  color: #A95EF4;
+}
+
+/* selected link */
+a:active {
+  color: #A95EF4;
+}
+
