@@ -1,17 +1,4 @@
-# Welcome to the CVD-COVID-UK/COVID-IMPACT Dataset Insight Resource
-
-**Who is this resource for:** 
-
-
-
-**Ways to view this site**
-* [Github Pages](https://bhfdsc.github.io/HDS-Data-Insights/)
-* Directly on [Github](https://github.com/BHFDSC/HDS-Data-Insights) 
-
-
-**Contribute to this work**
-
-Share your insights by...
+# Welcome to the BHF Data Science Centre Health Data Science documentation for CVD-COVID-UK/COVID-IMPACT members.
 
 
 ## Table of contents
@@ -19,6 +6,16 @@ Share your insights by...
 * [GDPPR](gdppr.md)
 * [HES APC](hes_apc.md)
 * [NICOR MINAP](nicor_minap.md)
+
+
+[Next page](gdppr.md)
+
+**Who is this resource for:** 
+
+
+**Contribute to this work**
+
+Share your insights by...
 
 
 [Next page](gdppr.md)
