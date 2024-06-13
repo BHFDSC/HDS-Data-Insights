@@ -1,6 +1,3 @@
 theme: minima
-markdown: kramdown
-kramdown:
-  input: GFM
 include:
   - _includes/head.html
