@@ -1,0 +1,14 @@
+/* Change the color of regular links */
+a {
+  color: pink; /* Change to your desired color */
+}
+
+/* Change the color of links when hovered over */
+a:hover {
+  color: yellow; /* Change to your desired hover color */
+}
+
+/* Change the color of visited links */
+a:visited {
+  color: purple; /* Change to your desired visited color */
+}
