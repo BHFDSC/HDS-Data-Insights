@@ -1,7 +1,3 @@
----
-title: Welcome
----
-
 # Welcome to the BHF Data Science Centre Health Data Science documentation for CVD-COVID-UK/COVID-IMPACT members.
 
 
@@ -13,13 +9,3 @@ title: Welcome
 * [NICOR MINAP](nicor_minap.md)
 
 
-
-**Who is this resource for:** 
-
-
-**Contribute to this work**
-
-Share your insights by...
-
-
-[Next page](gdppr.md)

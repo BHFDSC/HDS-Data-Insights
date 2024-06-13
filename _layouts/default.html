@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" type="text/css" href="{{ '/styles.css' | relative_url }}">
+</head>
+<body>
+  <div class="container">
+    <div class="sidebar">
+      <h2>Table of Contents</h2>
+      <ul>
+        <li><a href="/kpcs.md">GDPPR</a></li>
+        <ul>
+          <li><a href="/gdppr.md">Introduction</a></li>
+          <li><a href="/gdppr/data_sources.md">Data Sources</a></li>
+          <li><a href="/gdppr/processing.md">Processing</a></li>
+        </ul>
+        <li><a href="/hes_apc.md">HES APC</a></li>
+        <li><a href="/nicor_minap.md">NICOR MINAP</a></li>
+      </ul>
+    </div>
+    <div class="content">
+      {{ content }}
+    </div>
+  </div>
+</body>
+</html>
