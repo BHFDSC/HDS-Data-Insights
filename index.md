@@ -7,12 +7,12 @@ title: Welcome
 
 ## Table of contents
 
-* [GDPPR](gdppr.md)
+* [Key Patient Characteristics](kpcs.md)
+  * [GDPPR](gdppr.md)
 * [HES APC](hes_apc.md)
 * [NICOR MINAP](nicor_minap.md)
 
 
-[Next page](gdppr.md)
 
 **Who is this resource for:** 
 
